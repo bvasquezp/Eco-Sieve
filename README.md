@@ -12,7 +12,6 @@ Eco-Sieve es un modelo generativo basado en **Variational Autoencoders (VAE)** d
 
 ##  Estructura del Proyecto
 * `src/`: Código fuente del modelo (PyTorch) y pipelines.
-* `models/`: Checkpoints del VAE entrenado.
 * `results/`: Gráficos de análisis (PCA, Distribuciones) y candidatos generados.
 * `data/`: Dataset de entrenamiento (SMILES).
 
