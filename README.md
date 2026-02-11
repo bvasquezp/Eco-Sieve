@@ -1,4 +1,7 @@
 # Eco-Sieve VAE: Generación de Moléculas Lead-like
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![PyTorch](https://img.shields.io/badge/PyTorch-2.0-red)
+![License](https://img.shields.io/badge/License-MIT-green)
 
 ![Chemical Space](results/figures/chemical_space_pca.png)
 
